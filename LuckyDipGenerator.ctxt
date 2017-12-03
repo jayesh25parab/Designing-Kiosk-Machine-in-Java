@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LuckyDipGenerator()
+comment0.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ LuckyDipGenerator\r\n
+comment1.params=
+comment1.target=int\ getLuckyNumber()
+comment1.text=\r\n\ Method\ used\ to\ get\ random\ number\r\n
+comment2.params=maximumNumber
+comment2.target=void\ setLuckyNumber(int)
+comment2.text=\r\n\ Method\ used\ to\ set\ random\ number\r\n
+numComments=3
